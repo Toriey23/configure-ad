@@ -1,34 +1,35 @@
 <p align="center">
-<img src="https://imgur.com/gx2FXRk.png" alt="azure image"/>
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Azure Resource Creation - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the Azure Data Storage service. The example show the process of establishing creating a Virtual Machine, gaining Remote Access to a computer and Internet Information Services.<br />
+<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Active Directory Domain Services
+- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows Server 2022
+- Windows 10 (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Step 1
+- Step 2
+- Step 3
+- Step 4
 
-<h2>Installation Steps</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 <p>
 <img src="https://imgur.com/rf0GdLk.png" height="80%" width="80%" alt="Creating a Resource Group and Virtual Machine"/>
