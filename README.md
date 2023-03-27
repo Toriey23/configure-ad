@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the implementation of remote access of an Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Video Demonstration</h2>
