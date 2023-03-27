@@ -2,7 +2,7 @@
 <img src="https://imgur.com/gx2FXRk.png" alt="azure image"/>
 </p>
 
-<h1>azure first resource creation - Prerequisites and Installation</h1>
+<h1>Azure Resource Creation - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the Azure Data Storage service. The example show the process of establishing creating a Virtual Machine, gaining Remote Access to a computer and Internet Information Services.<br />
 
 
